@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jimbonlemu
-- 👀 I’m interested in SEGS ACTIVITY
-- 🌱 I’m currently learning HOW TO SEGS 
-- 💞️ I’m looking to collaborate on SEGS ACTIVITY PRO AND BEGINNER
-- 📫 How to reach me SEGS SGES EGSS SSGE ESSG GSSE SEGS
+- 👀 I’m interested in Flutter, GetX, get_cli
+- 🌱 I’m currently learning Flutter,Dart 
+- 💞️ I’m looking to collaborate Flutter Project Beginner
+- 📫 How to reach me ig: yhnes_pambudi
 
 <!---
 jimbonlemu/jimbonlemu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
