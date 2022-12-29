@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimbonlemu
 - 👀 I’m interested in Flutter, GetX, get_cli
-- 🌱 I’m currently learning Flutter,Dart 
+- 🌱 I’m currently learning Flutter,Dart, GetX Patterns
 - 💞️ I’m looking to collaborate Flutter Project Beginner
 - 📫 How to reach me ig: yhnes_pambudi
 
