@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
 
 <!-- # 💫 About Me: -->
-- 👨‍🎓 I'm an SEGS<br>
+- 👨‍🎓 I'm an Escanor Santacruz a.k.a perompak_kode gua rampok kode lu biar lu kapok<br>
 - 🔭 I’m interested in Game Developing tapi gatau mau kemana <br>
 - 🌱 I’m currently learning **Develope a Website And Mobile**<br>
 - ⚡ Fun fact **Aku adalah Manusia dan Bukan Anjnime**<br>
