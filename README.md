@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
 
 <!-- # 💫 About Me: -->
-- 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
-- 🔭 I’m interested in studying saints and information technology<br>
+- 👨‍🎓 I'm an SEGS<br>
+- 🔭 I’m interested in Game Developing tapi gatau mau kemana <br>
 - 🌱 I’m currently learning **Develope a Website And Mobile**<br>
-- ⚡ Fun fact **I am Human not a robot or AI**<br>
-- 🎲 Let's play together<br>
-- 👋 see you around
+- ⚡ Fun fact **Aku adalah Manusia dan Bukan Anjnime**<br>
+- 🎲 Mari mabar JGRP bersamaku<br>
+- 👋 sampai jumpa di JGRP
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
