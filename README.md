@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Perompak_Kode</h1>
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
-<h3 align="center">Informatics Engineering student</h3>
+<h3 align="center">Estudiante de Ingenieria Informatica</h3>
 <img align="right" src="drive-by.gif" style="width:450px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
 
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an perompak_kode real code Robber<br>
-- 🔭 I’m interested in Game Developing tapi gatau mau kemana <br>
+- 🔭 I’m interested in Game Developing and like to learn Spanish<br>
 - 🌱 I’m currently learning **Android Native Javva YJJA**<br>
 - ⚡ Fun fact **I am is a Human and Playing GTA SAMP**<br>
 - 🎲 SAMP ? <br>
