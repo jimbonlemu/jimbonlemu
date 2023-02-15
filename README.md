@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perompak_Kode</h1>
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
-<img align="right" src="./gif.gif" style="width:450px"/>
+<img align="right" src="drive-by.gif" style="width:450px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
 
 <!-- # 💫 About Me: -->
