@@ -53,5 +53,6 @@
   
 
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/wjV16qjgqbsI4HWViq/giphy.gif" width="128"></a>
+  <iframe src="https://giphy.com/embed/wjV16qjgqbsI4HWViq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arigatou-loudsonic-arigatousonic-wjV16qjgqbsI4HWViq">via GIPHY</a></p>
+<!--   <a href="#"><img src="https://media.giphy.com/media/wjV16qjgqbsI4HWViq/giphy.gif" width="500"></a> -->
 </p>
