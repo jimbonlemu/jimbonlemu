@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bilek Anime</h1>
+<h1 align="center">Hi 👋, I'm Perompak_Kode</h1>
 <!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
 <h3 align="center">Informatics Engineering student</h3>
 <img align="right" src="./gif.gif" style="width:450px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
-<!-- [![](https://visitcount.itsvg.in/api?id=rsydfhmy03&icon=5&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember<br>
@@ -15,8 +14,7 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmy rosyadi" height="30" width="40" /></a>
-<a href="https://instagram.com/jefe_gyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rysdfhmy03" height="30" width="40" /></a>
+<a href="https://instagram.com/jefe_gyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimbonlemu" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack
@@ -45,9 +43,7 @@
   </div>
   <hr/>
 
-<!--   <div>
-    <a href="#"><img alt="rsydfhmy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rsydfhmy03&custom_title=Fahmy%20Rosyadi%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div>  -->
+
 </div>
 
 <br/>
