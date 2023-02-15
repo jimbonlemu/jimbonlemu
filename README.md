@@ -8,7 +8,7 @@
 - 👨‍🎓 I'm an perompak_kode real code Robber<br>
 - 🔭 I’m interested in Game Developing tapi gatau mau kemana <br>
 - 🌱 I’m currently learning **Android Native Javva YJJA**<br>
-- ⚡ Fun fact **Aku adalah Manusia dan Bukan Anjnime**<br>
+- ⚡ Fun fact **I am is a Human and Playing GTA SAMP**<br>
 - 🎲 Mari mabar JGRP bersamaku<br>
 - 👋 sampai jumpa di JGRP
 
