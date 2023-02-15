@@ -7,7 +7,7 @@
 <!-- # 💫 About Me: -->
 - 👨‍🎓 I'm an perompak_kode real code Robber<br>
 - 🔭 I’m interested in Game Developing tapi gatau mau kemana <br>
-- 🌱 I’m currently learning **Develope a Website And Mobile**<br>
+- 🌱 I’m currently learning **Android Native Javva YJJA**<br>
 - ⚡ Fun fact **Aku adalah Manusia dan Bukan Anjnime**<br>
 - 🎲 Mari mabar JGRP bersamaku<br>
 - 👋 sampai jumpa di JGRP
