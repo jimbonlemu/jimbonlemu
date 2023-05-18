@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
 
 <!-- # 💫 About Me: -->
-- 👨‍🎓 I'm an perompak_kode real code Robber<br>
-- 🔭 I’m interested in Game Developing and like to learn Spanish<br>
-- 🌱 I’m currently learning **Android Native Javva YJJA**<br>
-- ⚡ Fun fact **I am is a Human and Playing GTA SAMP**<br>
-- 🎲 SAMP ? <br>
-- 👋 Thank you for visit
+- 👨‍🎓 我是一个 perompak_kode 真正的代码劫匪<br>
+- 🔭 我对安卓开发感兴趣，也想学习中文。<br>
+- 🌱 我目前正在学习**Android Native Kotlin**<br>
+- ⚡ 我现在玩的是游戏 "Yakuza 0"。<br>
+- 🎲 我是嘻哈歌曲爱好者，我最喜欢的说唱歌手是Juice WRLD。 <br>
+- 👋 谢谢您访问我的Github简介 
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -39,7 +39,10 @@
     <a href="#"><img alt="peromoak_kode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&include_all_commits=true&hide=commits&hide_border=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="205" width="500"/></a>
     <a href="#"><img alt="jimbonlemu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"width="300"/></a>
     <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<i>
+    <i><b>Note:</b> 我的顶级编程语言并不代表我的技能，我正在学习我想要的一切，以及他们（行业或客户）想要的一切。
+
+"无论你是人类还是恶魔，对我来说都不重要。"
+-格里菲斯勋爵<i>
   </div>
   <hr/>
 
