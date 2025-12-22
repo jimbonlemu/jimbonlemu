@@ -48,10 +48,7 @@ AI-powered mobile app that identifies corn diseases in real-time using image pro
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F&langs_count=8" />   
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F" />
-</p>
+
 <p align="center">
   <img alt="jimbonlemu Top Languange" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img alt="jimbonlemu Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&theme=tokyonight&hide_border=true"/>
