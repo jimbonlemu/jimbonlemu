@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**Mochamad Iqbal Maulana** | `perompak_kode` | Web and Mobile Developer
+**Mochamad Iqbal Maulana** | `perompak_kode` | Web/Mobile Developer
 
 > *El código es el mapa, el conocimiento es el tesoro*
 
