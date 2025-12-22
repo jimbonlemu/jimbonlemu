@@ -1,60 +1,78 @@
-<h1 align="center">Hola 👋, Yo Soy perompak_kode</h1>
-<!-- <h3 align="center">Iam Undergraduate Student | Informatics Engineering at State Polytechnic Of Jember</h3> -->
-<h3 align="center">Estudiante de Ingenieria Informatica</h3>
-<img align="right" src="drive-by.gif" style="width:450px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimbonlemu&label=Profile%20views&color=orange&style=flat" alt="jimbonlemu" /> </p>
+# Hey there! 👋
 
-<!-- # 💫 About Me: -->
-- 👨‍🎓 我是一个 perompak_kode 真正的代码劫匪<br>
-- 🔭 我对安卓开发感兴趣，也想学习中文。<br>
-- 🌱 我目前正在学习**Android Native Kotlin**<br>
-- ⚡ 我现在玩的是游戏 "Yakuza 0"。<br>
-- 🎲 我是嘻哈歌曲爱好者，我最喜欢的说唱歌手是Juice WRLD。 <br>
-- 👋 谢谢您访问我的Github简介 
+**Mochamad Iqbal Maulana** | `perompak_kode` | Web and Mobile Developer
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-<a href="https://instagram.com/jefe_gyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimbonlemu" height="30" width="40" /></a>
-</p>
+> *El código es el mapa, el conocimiento es el tesoro*
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+---
 
-<h2>📃 Github Stats</h2>
+## 🚀 About Me
 
-<br>
-  <div align="center">
-    <a href="#"><img alt="peromoak_kode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&include_all_commits=true&hide=commits&hide_border=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="205" width="500"/></a>
-    <a href="#"><img alt="jimbonlemu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"width="300"/></a>
-    <br/>
-    <i><b>Note:</b> 我的顶级编程语言并不代表我的技能，我正在学习我想要的一切，以及他们（行业或客户）想要的一切。
+Mobile Developer specializing in Android with Kotlin. Building apps that solve real problems and make an impact. Currently exploring cross-platform development and expanding my tech stack.
 
-"无论你是人类还是恶魔，对我来说都不重要。"
--格里菲斯勋爵<i>
-  </div>
-  <hr/>
+**Bangkit Academy 2024 Distinction Graduate** - Mobile Development  
+Worked on **[Clefer](https://github.com/TeamClefer-C241-PS201)**, an AI-powered corn disease detection mobile app as part of my capstone project.
 
+---
 
-</div>
+## 🛠️ Tech Stack
 
-<br/>
-<hr/>
+**Mobile Development**
+- Kotlin, Java, Android SDK
+- Room, Retrofit
+- Flutter, Dart
+- MVVM Architecture
 
-<br/>
+**Web Development**
+- PHP, Laravel
+- JavaScript, Node.js
   
+---
+
+## 💼 Featured Projects
+
+### 📦 [word-hunts](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
+Fast offline CLI tool for instant English word-prefix search. Optimized with binary-search indexing for word games and linguistic tooling.
+
+**Tech:** JavaScript, Node.js, CLI
+
+[![npm version](https://img.shields.io/npm/v/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
+[![npm downloads](https://img.shields.io/npm/dm/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
+---
+### 🌽 [Clefer - Corn Disease Detection](https://github.com/TeamClefer-C241-PS201)
+AI-powered mobile app that identifies corn diseases in real-time using image processing and machine learning.
+
+**My Role:** Mobile Developer  
+**Tech:** Kotlin, TensorFlow Lite, CameraX, Material Design
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 CodeWars
+
+![CodeWars Badge](https://www.codewars.com/users/jimbonlemu/badges/large)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbaltech29/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xenchaux)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimbonlemu)
+
+---
 
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/wjV16qjgqbsI4HWViq/giphy.gif" width="500"></a>
+  <i>💭 Hello World!</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jimbonlemu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
