@@ -34,7 +34,7 @@ Worked on **[Clefer](https://github.com/TeamClefer-C241-PS201)**, an AI-powered 
 ### 📦 [word-hunts](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
 Fast offline CLI tool for instant English word-prefix search. Optimized with binary-search indexing for word games and linguistic tooling.
 
-**Tech:** JavaScript, Node.js, CLI
+**Tech:** JavaScript, Node.js
 
 [![npm version](https://img.shields.io/npm/v/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
 [![npm downloads](https://img.shields.io/npm/dm/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
@@ -48,24 +48,27 @@ AI-powered mobile app that identifies corn diseases in real-time using image pro
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F&langs_count=8" />   
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&hide_border=true&bg_color=000000&hide=commits&icon_color=4C566A&title_color=CB9C07&text_color=D1A20F" />
+</p>
+<p align="center">
+  <img alt="jimbonlemu Top Languange" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img alt="jimbonlemu Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 CodeWars
-
 ![CodeWars Badge](https://www.codewars.com/users/jimbonlemu/badges/large)
-
 ---
 
 ## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbaltech29/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xenchaux)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimbonlemu)
+<p align="center">
+  <img alt="iqbal LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbaltech29/"/>
+  <img alt="iqbal Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xenchaux"/>
+  <img alt="iqbal Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimbonlemu"/>
+</p>
 
 ---
 
