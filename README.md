@@ -37,7 +37,7 @@ Fast offline CLI tool for instant English word-prefix search. Optimized with bin
 **Tech:** JavaScript, Node.js
 
 [![npm version](https://img.shields.io/npm/v/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
-[![npm downloads](https://img.shields.io/npm/dm/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
+[![npm downloads](https://img.shields.io/npm/dt/@jimbonlemu/word-hunts.svg)](https://www.npmjs.com/package/@jimbonlemu/word-hunts)
 ---
 ### 🌽 [Clefer - Corn Disease Detection](https://github.com/TeamClefer-C241-PS201)
 AI-powered mobile app that identifies corn diseases in real-time using image processing and machine learning.
@@ -50,7 +50,7 @@ AI-powered mobile app that identifies corn diseases in real-time using image pro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="jimbonlemu Top Languange" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <!-- <img alt="jimbonlemu Top Languange" src="https://github-readme-stats.vercel.app/api?username=jimbonlemu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> -->
   <img alt="jimbonlemu Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbonlemu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
