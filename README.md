@@ -21,8 +21,7 @@ Worked on **[Clefer](https://github.com/TeamClefer-C241-PS201)**, an AI-powered 
 - Kotlin, Java, Android SDK
 - Room, Retrofit
 - Flutter, Dart
-- MVVM Architecture
-
+  
 **Web Development**
 - PHP, Laravel
 - JavaScript, Node.js
